@@ -1,0 +1,5 @@
+train: D:\Documents\Andrew uni\Thesis\Dataset\train\images
+val: D:\Documents\Andrew uni\Thesis\Dataset\valid\images
+
+nc: 1
+names: ['Lines']
